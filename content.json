@@ -1,0 +1,1402 @@
+{
+ "site": {
+  "name": "HR Invisible Safety Grill",
+  "phone": "+91 70618 99614",
+  "wa": "917061899614",
+  "email": "hshm0799@gmail.com",
+  "addr": "Sarda Charan Mitralen, 000, Harmu Rd, behind Physics Wallah Vidyapeeth Coaching Center, Kumhartoli, Ranchi, Jharkhand 834001",
+  "map": "https://maps.app.goo.gl/d9VhRP3YyQN3m52U6",
+  "greview": ""
+ },
+ "imgs": {
+  "grill1": "img/grill1.webp",
+  "grill2": "img/grill2.webp",
+  "corr": "img/corr.webp",
+  "scaf": "img/scaf.webp",
+  "gbal": "img/gbal.webp",
+  "terr": "img/terr.webp",
+  "gbal2": "img/gbal2.webp",
+  "wbal": "img/wbal.webp",
+  "ground": "img/ground.webp",
+  "wbal2": "img/wbal2.webp",
+  "fac1": "img/fac1.webp",
+  "fac2": "img/fac2.webp",
+  "spike": "img/spike.webp",
+  "fac3": "img/fac3.webp",
+  "golf": "img/golf.webp",
+  "rail": "img/rail.webp",
+  "roof": "img/roof.webp",
+  "fac4": "img/fac4.webp"
+ },
+ "dim": {
+  "grill1": [
+   480,
+   640
+  ],
+  "grill2": [
+   480,
+   640
+  ],
+  "corr": [
+   640,
+   335
+  ],
+  "scaf": [
+   550,
+   550
+  ],
+  "gbal": [
+   550,
+   550
+  ],
+  "terr": [
+   550,
+   550
+  ],
+  "gbal2": [
+   550,
+   550
+  ],
+  "wbal": [
+   550,
+   550
+  ],
+  "ground": [
+   380,
+   253
+  ],
+  "wbal2": [
+   550,
+   550
+  ],
+  "fac1": [
+   480,
+   640
+  ],
+  "fac2": [
+   480,
+   638
+  ],
+  "spike": [
+   550,
+   550
+  ],
+  "fac3": [
+   550,
+   550
+  ],
+  "golf": [
+   550,
+   550
+  ],
+  "rail": [
+   640,
+   302
+  ],
+  "roof": [
+   640,
+   482
+  ],
+  "fac4": [
+   640,
+   288
+  ]
+ },
+ "gal": [
+  {
+   "id": "grill1",
+   "s": "grill1",
+   "c": "grill",
+   "t": "Invisible grill on a high-rise balcony",
+   "d": "Steel cables run from ceiling to railing across the full balcony. The city view stays clear.",
+   "k": "Steel",
+   "w": "Balcony"
+  },
+  {
+   "id": "grill2",
+   "s": "grill2",
+   "c": "grill",
+   "t": "Invisible grill across a window",
+   "d": "Horizontal steel cables fixed across a sliding window opening.",
+   "k": "Steel",
+   "w": "Window"
+  },
+  {
+   "id": "wbal",
+   "s": "wbal",
+   "c": "balcony",
+   "t": "White net on a high-rise balcony",
+   "d": "White knotted net from railing to ceiling. The view of the towers stays visible.",
+   "k": "White",
+   "w": "Balcony"
+  },
+  {
+   "id": "wbal2",
+   "s": "wbal2",
+   "c": "balcony",
+   "t": "White net along a side balcony",
+   "d": "White net running the full length of a narrow balcony, tied at regular points.",
+   "k": "White",
+   "w": "Side balcony"
+  },
+  {
+   "id": "gbal",
+   "s": "gbal",
+   "c": "balcony",
+   "t": "Green net on a balcony",
+   "d": "Green knotted net fixed above the railing and along the balcony.",
+   "k": "Green",
+   "w": "Balcony"
+  },
+  {
+   "id": "gbal2",
+   "s": "gbal2",
+   "c": "balcony",
+   "t": "Green net on an apartment balcony",
+   "d": "Fine-mesh green net across the balcony opening, with a green frame on the side.",
+   "k": "Green",
+   "w": "Balcony"
+  },
+  {
+   "id": "rail",
+   "s": "rail",
+   "c": "balcony",
+   "t": "Small-mesh net around a balcony",
+   "d": "Fine net closing the whole balcony recess behind a green and blue railing.",
+   "k": "White, green edge",
+   "w": "Balcony recess"
+  },
+  {
+   "id": "corr",
+   "s": "corr",
+   "c": "balcony",
+   "t": "White and green nets on an open corridor",
+   "d": "The open side of a covered corridor netted. Shown in white (left) and green (right).",
+   "k": "White and green",
+   "w": "Corridor"
+  },
+  {
+   "id": "fac1",
+   "s": "fac1",
+   "c": "building",
+   "t": "White net under stacked balconies",
+   "d": "White net covering the open balconies on each floor, seen from below.",
+   "k": "White",
+   "w": "Multi-floor balconies"
+  },
+  {
+   "id": "fac2",
+   "s": "fac2",
+   "c": "building",
+   "t": "Net along a building side wall",
+   "d": "White net fixed along the balcony edges on the side of a multi-storey building.",
+   "k": "White",
+   "w": "Building side"
+  },
+  {
+   "id": "fac3",
+   "s": "fac3",
+   "c": "building",
+   "t": "Net over iron-grilled balconies",
+   "d": "Fine white net fitted over balconies that already have iron grills, on every floor.",
+   "k": "White",
+   "w": "Grilled balconies"
+  },
+  {
+   "id": "fac4",
+   "s": "fac4",
+   "c": "building",
+   "t": "White net across three floors",
+   "d": "One white net across the open balconies of several floors.",
+   "k": "White",
+   "w": "Multi-floor balconies"
+  },
+  {
+   "id": "terr",
+   "s": "terr",
+   "c": "building",
+   "t": "Green net over an open building area",
+   "d": "Large sea-green net stretched across an open area at the top of a building.",
+   "k": "Sea green",
+   "w": "Open terrace area"
+  },
+  {
+   "id": "roof",
+   "s": "roof",
+   "c": "bird",
+   "t": "Net under a sheet roof",
+   "d": "White net fixed beneath a sheet roof on top of a house. A crow is sitting on the roof above.",
+   "k": "White",
+   "w": "Terrace roof"
+  },
+  {
+   "id": "spike",
+   "s": "spike",
+   "c": "bird",
+   "t": "Anti-bird spikes",
+   "d": "Rows of clear plastic spikes on a ledge so birds cannot sit or nest.",
+   "k": "Clear",
+   "w": "Ledge or parapet"
+  },
+  {
+   "id": "ground",
+   "s": "ground",
+   "c": "sports",
+   "t": "Green net over a football turf",
+   "d": "Green net overhead and on the sides of a floodlit football ground.",
+   "k": "Green",
+   "w": "Sports ground"
+  },
+  {
+   "id": "golf",
+   "s": "golf",
+   "c": "sports",
+   "t": "Frame and net for a practice range",
+   "d": "Tall steel frames with green net on both sides of a long ground. Spare net is laid on the floor.",
+   "k": "Green",
+   "w": "Practice range"
+  },
+  {
+   "id": "scaf",
+   "s": "scaf",
+   "c": "sports",
+   "t": "Green scaffold safety net",
+   "d": "Green net wrapped over scaffolding on a multi-storey building under construction.",
+   "k": "Green",
+   "w": "Construction site"
+  }
+ ],
+ "pages": [
+  {
+   "id": "home",
+   "t": "Home",
+   "g": "",
+   "d": "Invisible grills and safety nets for balconies and windows in Ranchi, Jharkhand and Bihar. SS 316 steel, 10-year warranty. Get a free quote.",
+   "b": "- SS 316 marine-grade steel cables with nylon coating, rust-proof\n- Cables spaced close so children and pets stay safe\n- Trained installers and neat finishing\n- 10-year warranty on invisible grill work\n- One team for grills, nets, bird protection and spikes\n## Invisible grills: safety that keeps your view\nAn invisible grill is a set of thin SS 316 stainless steel cables fitted tightly across a balcony, window or staircase. It stops falls and keeps daylight, air and the view open. That is why more families in Ranchi, Patna and other towns choose it over heavy iron grills.\n## Nets for birds and for children\nWhere pigeons are the problem, a [bird net](#/bird-nets) works well. Where small children use the balcony, a small-mesh [child safety net](#/child-safety-nets) closes the gaps. We also fit [balcony nets](#/balcony-nets) and [building nets](#/building-nets) for flats and societies.\n## How we work\nYou send a photo and size on WhatsApp. We suggest the right grill or net and give you a clear quote. Trained installers fit it neatly, and invisible grill work carries a 10-year warranty. Read our [terms](#/terms-and-conditions) and [how to claim warranty](#/claim-warranty).\n## Where we work\nOur office is in Ranchi. We serve [all districts of Jharkhand and Bihar](#/locations), including [Ranchi](#/ranchi) and [Patna](#/patna). Call 7061899614 or use the [contact page](#/contact) for a free quote.",
+   "i": "grill1",
+   "mt": "Invisible Grills in Ranchi & Bihar | HR Invisible Safety Grill",
+   "h": "Invisible Grills and Safety Nets for Balconies and Windows in Ranchi, Jharkhand and Bihar"
+  },
+  {
+   "id": "about",
+   "t": "About Us",
+   "g": "About",
+   "d": "HR Invisible Safety Grill is a home safety team in Ranchi with 10+ years of experience and 15000+ installations.",
+   "b": "We fit invisible safety grills, balcony and building nets, bird nets and spikes, children safety nets and ceiling cloth hangers.\nOur work is simple: protect your family without hiding your view, and back the job with a warranty.\nWe work in Ranchi, across Jharkhand and in all 38 districts of Bihar.",
+   "i": "grill2"
+  },
+  {
+   "id": "rate-card",
+   "t": "Rate Card",
+   "g": "About",
+   "d": "Rates depend on area, height and material. Send a photo and size on WhatsApp for an exact invisible grill or net quote.",
+   "b": "The price depends on:\n- Area to be covered (in square feet)\n- Cable thickness and spacing\n- Balcony, window or duct type\n- Net colour and mesh size for net jobs\nSend a photo and the size on WhatsApp and we will give you a clear quote.\nAlso read our [price guide](#/invisible-grill-price).",
+   "i": "",
+   "mt": "Invisible Grill Rate Card | Get a Quote - HR Invisible Safety Grill",
+   "h": "Invisible Grill and Net Rate Card"
+  },
+  {
+   "id": "claim-warranty",
+   "t": "Claim Warranty",
+   "g": "About",
+   "d": "To claim warranty, call or WhatsApp us with your name, address, installation date and a photo of the problem.",
+   "b": "Keep your bill and installation photos safe.\nCall or WhatsApp 7061899614 with:\n- Your name and address\n- Date of installation\n- A photo or short video of the problem\nOur team will contact you and arrange a visit.",
+   "i": ""
+  },
+  {
+   "id": "contact",
+   "t": "Contact Us",
+   "g": "",
+   "d": "Call, WhatsApp or email HR Invisible Safety Grill in Ranchi for a free invisible grill or net quote and site visit.",
+   "b": "",
+   "i": "",
+   "mt": "Contact HR Invisible Safety Grill | Call 7061899614, Ranchi",
+   "h": "Get a Free Invisible Grill Quote"
+  },
+  {
+   "id": "gallery",
+   "t": "Gallery",
+   "g": "Resources",
+   "d": "Photos of our invisible grill and safety net work. Tap a photo to enlarge it.",
+   "b": "",
+   "i": ""
+  },
+  {
+   "id": "blog",
+   "t": "Blog",
+   "g": "Resources",
+   "d": "Simple guides on invisible grills, balcony nets and home safety.",
+   "b": "",
+   "i": ""
+  },
+  {
+   "id": "faq",
+   "t": "FAQ",
+   "g": "Resources",
+   "d": "Answers on invisible grill price, safety, material, warranty and installation from HR Invisible Safety Grill in Ranchi.",
+   "b": "",
+   "i": "",
+   "mt": "Invisible Grill FAQs: Price, Safety & Warranty | HR Safety Grill",
+   "h": "Invisible Grill FAQs: Price, Safety, Material and Installation"
+  },
+  {
+   "id": "locations",
+   "t": "Service Locations",
+   "g": "Resources",
+   "d": "HR Invisible Safety Grill works in Ranchi, across Jharkhand and in all 38 districts of Bihar. Pick your district.",
+   "b": "Pick your district to see our services near you.",
+   "i": "",
+   "mt": "Invisible Grill Service Locations | HR Invisible Safety Grill",
+   "h": "Invisible Grill Service Locations in Jharkhand and Bihar"
+  },
+  {
+   "id": "invisible-grills",
+   "t": "Invisible Grills",
+   "g": "Products",
+   "d": "Invisible grills use thin SS 316 steel cables to protect balconies and windows without blocking your view. Child and pet safe. Get a free quote.",
+   "b": "## What is an invisible grill?\nAn invisible grill is a safety barrier made of thin stainless steel cables stretched tightly between channels at the top and bottom of an opening. It guards balconies, windows and staircases, yet from inside it is almost impossible to see.\n## How does it work?\nThe cables are fitted close together and kept under tension. A child or pet cannot pass between them, and the barrier stays firm if someone leans on it. Correct tension and strong fixing matter as much as the steel itself.\n## Why SS 316 stainless steel?\nWe use SS 316 marine-grade steel with a nylon coating. It resists rust and weather, which suits balconies that face rain, sun and humid air in Jharkhand and Bihar.\n## Where can you fit it?\n- [Balconies](#/balcony-invisible-grill)\n- [Windows, sliding and French windows](#/window-invisible-grill)\n- [Apartments and high-rise flats](#/apartment-invisible-grill)\n- Staircases, duct openings and terraces\n## Invisible grill or iron grill?\nIron blocks the view and needs paint to fight rust. An invisible grill keeps the view and needs only a wipe. Read the full comparison: [invisible grill vs iron grill](#/post-vs-iron-grill).\n## Care and warranty\nWipe the cables with a soft cloth and mild soap. Avoid harsh chemicals. Invisible grill work has a 10-year warranty, explained in our [terms](#/terms-and-conditions).\n## Price and quote\nThe price depends on area, height and cable choice. See the [price guide](#/invisible-grill-price), or call 7061899614 for a free quote in Ranchi, Jharkhand or Bihar.",
+   "i": "grill1",
+   "mt": "Invisible Grills for Balcony & Window | HR Invisible Safety Grill",
+   "h": "Invisible Grills for Balconies and Windows: Safe, Clear and Durable"
+  },
+  {
+   "id": "why-invisible-grills",
+   "t": "Why Invisible Grills",
+   "g": "Products",
+   "d": "Invisible grills keep the view and light open while protecting children and pets. They are rust-proof and need little care.",
+   "b": "- Clear view and full light, unlike iron grills\n- Child and pet safe cable spacing\n- Rust-proof SS 316 steel\n- Looks neat on any building\n- Needs only a soft wipe now and then",
+   "i": ""
+  },
+  {
+   "id": "when-to-install",
+   "t": "When to Install Invisible Grills",
+   "g": "Products",
+   "d": "Install invisible grills before you move in, or as soon as children or pets start using the balcony or windows.",
+   "b": "- Before moving into a new flat or house\n- When a child starts to walk or climb\n- When you get a pet\n- After finishing balcony or window work\nThe best time is before the first fall risk, not after.",
+   "i": ""
+  },
+  {
+   "id": "cable-types",
+   "t": "Invisible Grill Cable Types",
+   "g": "Products",
+   "d": "Cables differ in thickness and strength. We recommend the cable that suits your height, span and use.",
+   "b": "Cable thickness, number of runs and spacing decide how strong the grill is. Taller spans and public places need stronger cable and closer spacing.\nSend us the size and floor and we will suggest the right cable.",
+   "i": ""
+  },
+  {
+   "id": "where-to-install",
+   "t": "Where Can You Install Invisible Grills?",
+   "g": "Products",
+   "d": "Balconies, windows, duct areas, staircases, terraces and school or hostel buildings can all use invisible grills.",
+   "b": "## Balconies and french windows\nBalconies and large glass openings are where an invisible grill helps most. Thin steel cables guard the edge while the view, light and air stay open.\n## Windows, ventilators and ducts\nWindow openings, ventilators and open duct shafts can all be fitted. We measure each opening and choose the cable spacing to suit it.\n## Staircases, terraces and institutions\nStaircase sides, terrace edges and parapets in homes, schools and hostels also use invisible grills. Send a photo on WhatsApp and we will tell you what suits the spot. See [invisible grills](#/invisible-grills).",
+   "i": ""
+  },
+  {
+   "id": "what-is-invisible-grill",
+   "t": "What is an Invisible Grill?",
+   "g": "Products",
+   "d": "An invisible grill is a set of thin stainless steel cables fixed tightly in a frame to guard an opening without blocking the view.",
+   "b": "Thin steel cables are tensioned between channels at the top and bottom of an opening. They are spaced close enough that a child cannot pass through, but they are thin enough to disappear when you look outside.",
+   "i": ""
+  },
+  {
+   "id": "balcony-nets",
+   "t": "Balcony Safety Nets",
+   "g": "Products",
+   "d": "Strong white or green balcony nets keep children, pets and pigeons out. Weatherproof and neatly fitted. Get a free quote.",
+   "b": "## What is a balcony safety net?\nA balcony net is a strong knotted net fixed along the railing and ceiling to close the open sides of a balcony. It keeps children, pets and pigeons inside or outside as needed, and it lets light and air through.\n## White or green?\nWe fit white and green nets. White blends with light walls, and green suits balconies that face trees or gardens. Both are weatherproof and made to last.\n## Where balcony nets help most\n- Flats where pigeons nest on the balcony\n- Homes with young children or pets\n- Open corridors and terraces\n## Net or invisible grill?\nA net costs less and is good against birds. An [invisible grill](#/balcony-invisible-grill) is stronger and almost invisible. Many homes use both.\n## Fitting and price\nTrained installers fix the net tight so it does not sag. Price depends on the area and the mesh. Read the [price guide](#/invisible-grill-price) and send a photo and size on WhatsApp. We work in Ranchi, Jharkhand and Bihar.",
+   "i": "wbal",
+   "mt": "Balcony Safety Nets | White & Green - HR Invisible Safety Grill",
+   "h": "Balcony Safety Nets in Ranchi, Jharkhand and Bihar"
+  },
+  {
+   "id": "child-safety-nets",
+   "t": "Children Safety Nets",
+   "g": "Products",
+   "d": "Small-mesh safety nets around the balcony so a child cannot slip through. Neat fitting, light and air stay. Get a free quote.",
+   "b": "## Why children need a safety net\nSmall children climb, lean and squeeze through gaps. A balcony railing with wide gaps is a danger, because a child can slip through or get a hand or foot caught.\n## How a child safety net protects\nA small-mesh net closes the whole balcony opening. It is fixed to the frame and railing so it stays tight, and the mesh is fine enough that little hands and feet cannot get through.\n## Light, air and a clear look\nFine nets let light and air in and keep the look of the building. They suit flats and independent houses in Ranchi, Patna and other towns.\n## Net or invisible grill?\nNets cost less and also keep birds out. An [invisible grill](#/invisible-grills) is stronger and almost invisible. Many families use both. Read [is an invisible grill safe?](#/post-is-it-safe).\n## A note on supervision\nNo net or grill replaces an adult. Please keep watching young children near a balcony or window.\n## Get a quote\nSend a photo of your balcony and its size on WhatsApp, or see the [price guide](#/invisible-grill-price).",
+   "i": "rail",
+   "mt": "Children Safety Nets for Balcony | HR Invisible Safety Grill",
+   "h": "Children Safety Nets for Balconies and Windows"
+  },
+  {
+   "id": "bird-nets",
+   "t": "Bird Nets and Bird Spikes",
+   "g": "Products",
+   "d": "Bird nets and anti-roosting spikes keep pigeons and crows off balconies, roofs and ledges. Get a free quote in Ranchi and Bihar.",
+   "b": "## The pigeon problem\nPigeons nest on balconies, in ducts and on ledges. Their droppings damage walls and spread dirt, and the birds are hard to remove once they settle.\n## Bird nets\nA bird net closes the opening so birds cannot enter. We fit it tight along the balcony, window or duct, so it looks neat and does not sag. It works for balconies, AC areas and open terraces.\n## Bird spikes\nAnti-roosting spikes sit on ledges and parapets so birds cannot land and nest. Use spikes on flat edges where a net is not practical.\n## Which one do you need?\n- Balcony or duct opening: a net\n- Ledge, parapet or sill: spikes\n- Large building: [building nets](#/building-nets)\n## Invisible grills and birds\nWith close cable spacing an [invisible grill](#/invisible-grills) can help keep birds out of a window, but for pigeons a net or spikes work best.\n## Quote\nSend a photo on WhatsApp. We work in Ranchi, Jharkhand and all Bihar districts. See the [price guide](#/invisible-grill-price).",
+   "i": "roof",
+   "mt": "Bird Nets and Spikes | Pigeon Control - HR Invisible Safety Grill",
+   "h": "Bird Nets and Bird Spikes to Keep Pigeons Away"
+  },
+  {
+   "id": "building-nets",
+   "t": "Building and Duct Nets",
+   "g": "Products",
+   "d": "White and green nets across the open balconies of several floors at once.",
+   "b": "## One net across many floors\nFor apartments and societies we fit white or green nets across the open balconies of several floors in one job. This keeps pigeons out and stops small things falling.\n## Ducts and shafts\nOpen duct and shaft areas collect birds and rubbish. A net across the opening keeps them out and is quick to fit.\n## Plan a large job\nSend photos of the building and the number of floors on WhatsApp. For many flats see [large scale projects](#/large-scale). For bird control also see [bird nets](#/bird-nets).",
+   "i": "fac1"
+  },
+  {
+   "id": "sports-nets",
+   "t": "Sports Ground and Site Nets",
+   "g": "Products",
+   "d": "Boundary nets for turf grounds and practice areas, plus construction and scaffold safety nets.",
+   "b": "## Boundary nets for grounds\nTall green nets around football turfs and practice areas keep balls inside the ground and protect the neighbourhood.\n## Practice range frames\nSteel frames with large-area net are used for practice ranges. We make the net to your size.\n## Scaffold and site safety nets\nOn building sites, a green net over scaffolding helps stop tools and debris falling. Send the size of the area on WhatsApp and we will quote.",
+   "i": "ground"
+  },
+  {
+   "id": "cloth-dryer",
+   "t": "Ceiling Cloth Drying Hanger",
+   "g": "Products",
+   "d": "A pulley-based dryer that hangs from the ceiling and keeps your balcony floor free.",
+   "b": "## Ceiling cloth drying hanger\nA pulley-based hanger fixed to the ceiling. You lower it, load the clothes and lift it out of the way, so the balcony floor stays free.\n## Specification\n- Material: aluminium, nylon rope, plastic, stainless steel\n- Size: 60D x 120W x 15H cm\n- Colour: silver and white\n- Use: balcony, ceiling-mounted drying, indoor, space-saving\n## Supply and installation\nWe supply and fit the hanger. Send your balcony photo on WhatsApp to ask for the price. See also [balcony nets](#/balcony-nets).",
+   "i": ""
+  },
+  {
+   "id": "large-scale",
+   "t": "Large Scale Projects",
+   "g": "Services",
+   "d": "We handle large grill and net jobs for societies, schools, hostels and commercial buildings.",
+   "b": "## Societies, schools, hostels and offices\nMany balconies and floors can be done on one schedule. We plan the work so residents are disturbed as little as possible.\n## What we need from you\nPhotos of the building, the number of openings and the floors. We may also visit the site to measure.\n## Quote and warranty\nYou get a clear quote before work starts. Invisible grill work carries a 10-year warranty. Read our [terms](#/terms-and-conditions) and ask for a [quote](#/contact).",
+   "i": ""
+  },
+  {
+   "id": "material-supply",
+   "t": "Material Supply",
+   "g": "Services",
+   "d": "We supply invisible grill cable, channels and fittings, and nets, for installers and builders.",
+   "b": "## What we supply\nWe supply invisible grill cable, channels and fittings, and safety nets, in the quantity you need.\n## Who it is for\nBuilders, contractors and installers who need steel cable, fixings or nets for their own jobs.\n## How to order\nTell us the item, size and quantity on WhatsApp. We confirm availability and price. For fitted jobs see [invisible grills](#/invisible-grills).",
+   "i": ""
+  },
+  {
+   "id": "consultation",
+   "t": "Consultation",
+   "g": "Services",
+   "d": "Not sure what suits your home? We will look at your balcony or window and suggest the right grill or net.",
+   "b": "## Tell us what worries you\nA child on the balcony, pigeons in the duct, a wide window with no guard: tell us the problem and send photos.\n## We suggest the right option\nWe recommend a grill or a net, the cable or mesh, the spacing and the fixing method for your opening.\n## Then a clear quote\nOnce you are happy with the plan we give you a quote. Start on [WhatsApp](#/contact) or read the [price guide](#/invisible-grill-price).",
+   "i": ""
+  },
+  {
+   "id": "annual-maintenance",
+   "t": "Annual Maintenance",
+   "g": "Services",
+   "d": "Regular checks keep your grill or net tight and safe for years.",
+   "b": "## Why a yearly check helps\nOver time cables can loosen and fixings can wear, and nets can sag after storms. A short check keeps the work tight and safe.\n## What we check\n- Cable tension and fixing points\n- Channels, screws and anchors\n- Net fixings and sagging\n## How to book\nCall or WhatsApp us. We will visit and fix any loose parts. For warranty questions see [claim warranty](#/claim-warranty).",
+   "i": ""
+  },
+  {
+   "id": "schools",
+   "t": "Schools",
+   "g": "Industries",
+   "d": "Invisible grills for school and hostel balconies, windows and stairs protect students without blocking light.",
+   "b": "## Why schools need safe openings\nCorridors, stairwells, balconies and windows are used by many children every day. A fall from height is a serious risk, so openings need a strong, close barrier.\n## What we fit\nWe fit invisible grills on windows, stair sides and balconies, and nets where birds are a problem. See [invisible grills](#/invisible-grills) and [safety nets](#/balcony-nets).\n## Site visit and quote\nCall or WhatsApp us for a site visit. We explain the options and give a clear quote before work starts. For large buildings see [large scale projects](#/large-scale).",
+   "i": ""
+  },
+  {
+   "id": "residential",
+   "t": "Residential",
+   "g": "Industries",
+   "d": "Invisible grills and nets for flats and houses keep children and pets safe at home.",
+   "b": "## Why residential buildings need safe openings\nIn flats and houses, children and pets use balconies and windows daily. Open edges on upper floors are the biggest danger.\n## What we fit\nWe fit invisible grills on balconies and windows, child safety nets, and bird nets for pigeon problems. See [invisible grills](#/invisible-grills) and [safety nets](#/balcony-nets).\n## Site visit and quote\nCall or WhatsApp us for a site visit. We explain the options and give a clear quote before work starts. For large buildings see [large scale projects](#/large-scale).",
+   "i": ""
+  },
+  {
+   "id": "commercial",
+   "t": "Commercial",
+   "g": "Industries",
+   "d": "Grills and nets for offices and commercial buildings protect open edges and ducts.",
+   "b": "## Why offices and commercial buildings need safe openings\nTerraces, ducts, atriums and glass edges in offices need guarding without spoiling the look of the building.\n## What we fit\nWe fit invisible grills on glass edges and terraces, and nets over ducts and open shafts. See [invisible grills](#/invisible-grills) and [safety nets](#/balcony-nets).\n## Site visit and quote\nCall or WhatsApp us for a site visit. We explain the options and give a clear quote before work starts. For large buildings see [large scale projects](#/large-scale).",
+   "i": ""
+  },
+  {
+   "id": "hospitals",
+   "t": "Hospitals",
+   "g": "Industries",
+   "d": "Invisible grills for hospital windows and balconies add safety without changing the look.",
+   "b": "## Why hospitals need safe openings\nWindows, balconies and corridors in hospitals need a guard that keeps patients and visitors safe and does not block light or the view.\n## What we fit\nWe fit invisible grills on windows and balconies, which keep the view open and are easy to wipe clean. See [invisible grills](#/invisible-grills) and [safety nets](#/balcony-nets).\n## Site visit and quote\nCall or WhatsApp us for a site visit. We explain the options and give a clear quote before work starts. For large buildings see [large scale projects](#/large-scale).",
+   "i": ""
+  },
+  {
+   "id": "retail-malls",
+   "t": "Retail and Malls",
+   "g": "Industries",
+   "d": "Grills and nets for shops and malls guard open edges and terraces.",
+   "b": "## Why shops and malls need safe openings\nOpen edges, terraces and atrium sides in shops and malls need protection while staying clear and neat.\n## What we fit\nWe fit invisible grills on open edges and terraces, and nets to keep birds out of open areas. See [invisible grills](#/invisible-grills) and [safety nets](#/balcony-nets).\n## Site visit and quote\nCall or WhatsApp us for a site visit. We explain the options and give a clear quote before work starts. For large buildings see [large scale projects](#/large-scale).",
+   "i": ""
+  },
+  {
+   "id": "post-choose-grill",
+   "t": "How to choose a safe invisible grill",
+   "g": "Blog",
+   "d": "Cable thickness is not the only thing that matters. Spacing, steel grade and fixing also decide safety.",
+   "b": "Ask about the steel grade, cable thickness, spacing between cables and how the channels are fixed to the wall.\nA good installer will measure the opening and explain these before you pay.",
+   "i": "grill1"
+  },
+  {
+   "id": "post-balcony-net",
+   "t": "Balcony net or invisible grill?",
+   "g": "Blog",
+   "d": "Nets are lower cost and good against birds. Invisible grills are stronger and clearer. Many homes use both.",
+   "b": "Choose a net if your main worry is pigeons or you want a lower cost option.\nChoose an invisible grill if you want a strong, almost invisible barrier for children.",
+   "i": "wbal"
+  },
+  {
+   "id": "ranchi",
+   "t": "Invisible Grill in Ranchi",
+   "g": "Locations",
+   "s": "Jharkhand",
+   "d": "Invisible grills for balconies and windows in Ranchi. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills in Ranchi\nHR Invisible Safety Grill is based in Ranchi, on Harmu Road in Kumhartoli. We fit SS 316 invisible grills on balconies, windows and staircases, and we serve areas such as Harmu, Kanke Road, Lalpur, Doranda, Morabadi, Bariatu, Argora and Kokar.\n## Why Ranchi homes choose invisible grills\nFlats are going up across Ranchi, and families want their balconies safe without losing the view. Invisible grills protect children and pets, resist rust in the rainy season and keep the building looking modern.\n## Nets and bird protection\nWe also fit [balcony nets](#/balcony-nets), [child safety nets](#/child-safety-nets) and [bird nets](#/bird-nets) in Ranchi. Pigeons on balconies and ducts are a common complaint, and a net or spikes solve it.\n## Site visits are quick\nOur office is in Ranchi, so site visits within the city are quick. Send a photo and size on WhatsApp first, and we will tell you what suits your opening.\n## Price and warranty\nRead our [price guide](#/invisible-grill-price). Invisible grill work has a 10-year warranty; see [claim warranty](#/claim-warranty).\n## Contact us in Ranchi\nCall 7061899614 or use the [contact page](#/contact) for a free quote.",
+   "i": "",
+   "mt": "Invisible Grill in Ranchi | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Ranchi: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "jamshedpur",
+   "t": "Invisible Grill in Jamshedpur",
+   "g": "Locations",
+   "s": "Jharkhand",
+   "d": "Invisible grills for balconies and windows in Jamshedpur. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Jamshedpur\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Jamshedpur, Jharkhand. Thin steel cables protect children and pets and keep your view open. We fit grills and nets in areas such as Bistupur, Sakchi, Kadma, Sonari and Adityapur, and in nearby parts of Jamshedpur.\n## Safety nets and bird protection in Jamshedpur\nWe also fit balcony nets, child safety nets, bird nets and spikes in Jamshedpur. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Jamshedpur\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Jamshedpur. See our [price guide](#/invisible-grill-price).\n## Questions from Jamshedpur customers\nDo you fit invisible grills in Jamshedpur? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Jamshedpur.\nIs there a warranty on work in Jamshedpur? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Jamshedpur | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Jamshedpur: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "dhanbad",
+   "t": "Invisible Grill in Dhanbad",
+   "g": "Locations",
+   "s": "Jharkhand",
+   "d": "Invisible grills for balconies and windows in Dhanbad. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Dhanbad\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Dhanbad, Jharkhand. Thin steel cables protect children and pets and keep your view open. We fit grills and nets in areas such as Bank More, Hirapur, Saraidhela and Jharia, and in nearby parts of Dhanbad.\n## Safety nets and bird protection in Dhanbad\nWe also fit balcony nets, child safety nets, bird nets and spikes in Dhanbad. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Dhanbad\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Dhanbad. See our [price guide](#/invisible-grill-price).\n## Questions from Dhanbad customers\nDo you fit invisible grills in Dhanbad? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Dhanbad.\nIs there a warranty on work in Dhanbad? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Dhanbad | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Dhanbad: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "bokaro",
+   "t": "Invisible Grill in Bokaro",
+   "g": "Locations",
+   "s": "Jharkhand",
+   "d": "Invisible grills for balconies and windows in Bokaro. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Bokaro\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Bokaro, Jharkhand. Thin steel cables protect children and pets and keep your view open. We fit grills and nets in areas such as Bokaro Steel City sectors, Chas and City Centre, and in nearby parts of Bokaro.\n## Safety nets and bird protection in Bokaro\nWe also fit balcony nets, child safety nets, bird nets and spikes in Bokaro. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Bokaro\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Bokaro. See our [price guide](#/invisible-grill-price).\n## Questions from Bokaro customers\nDo you fit invisible grills in Bokaro? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Bokaro.\nIs there a warranty on work in Bokaro? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Bokaro | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Bokaro: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "deoghar",
+   "t": "Invisible Grill in Deoghar",
+   "g": "Locations",
+   "s": "Jharkhand",
+   "d": "Invisible grills for balconies and windows in Deoghar. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Deoghar\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Deoghar, Jharkhand. Thin steel cables protect children and pets and keep your view open. We serve Deoghar town and the nearby areas of Deoghar district.\n## Safety nets and bird protection in Deoghar\nWe also fit balcony nets, child safety nets, bird nets and spikes in Deoghar. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Deoghar\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Deoghar. See our [price guide](#/invisible-grill-price).\n## Questions from Deoghar customers\nDo you fit invisible grills in Deoghar? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Deoghar.\nIs there a warranty on work in Deoghar? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Deoghar | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Deoghar: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "hazaribagh",
+   "t": "Invisible Grill in Hazaribagh",
+   "g": "Locations",
+   "s": "Jharkhand",
+   "d": "Invisible grills for balconies and windows in Hazaribagh. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Hazaribagh\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Hazaribagh, Jharkhand. Thin steel cables protect children and pets and keep your view open. We serve Hazaribagh town and the nearby areas of Hazaribagh district.\n## Safety nets and bird protection in Hazaribagh\nWe also fit balcony nets, child safety nets, bird nets and spikes in Hazaribagh. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Hazaribagh\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Hazaribagh. See our [price guide](#/invisible-grill-price).\n## Questions from Hazaribagh customers\nDo you fit invisible grills in Hazaribagh? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Hazaribagh.\nIs there a warranty on work in Hazaribagh? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Hazaribagh | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Hazaribagh: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "giridih",
+   "t": "Invisible Grill in Giridih",
+   "g": "Locations",
+   "s": "Jharkhand",
+   "d": "Invisible grills for balconies and windows in Giridih. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Giridih\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Giridih, Jharkhand. Thin steel cables protect children and pets and keep your view open. We serve Giridih town and the nearby areas of Giridih district.\n## Safety nets and bird protection in Giridih\nWe also fit balcony nets, child safety nets, bird nets and spikes in Giridih. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Giridih\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Giridih. See our [price guide](#/invisible-grill-price).\n## Questions from Giridih customers\nDo you fit invisible grills in Giridih? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Giridih.\nIs there a warranty on work in Giridih? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Giridih | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Giridih: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "ramgarh",
+   "t": "Invisible Grill in Ramgarh",
+   "g": "Locations",
+   "s": "Jharkhand",
+   "d": "Invisible grills for balconies and windows in Ramgarh. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Ramgarh\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Ramgarh, Jharkhand. Thin steel cables protect children and pets and keep your view open. We serve Ramgarh town and the nearby areas of Ramgarh district.\n## Safety nets and bird protection in Ramgarh\nWe also fit balcony nets, child safety nets, bird nets and spikes in Ramgarh. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Ramgarh\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Ramgarh. See our [price guide](#/invisible-grill-price).\n## Questions from Ramgarh customers\nDo you fit invisible grills in Ramgarh? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Ramgarh.\nIs there a warranty on work in Ramgarh? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Ramgarh | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Ramgarh: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "dumka",
+   "t": "Invisible Grill in Dumka",
+   "g": "Locations",
+   "s": "Jharkhand",
+   "d": "Invisible grills for balconies and windows in Dumka. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Dumka\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Dumka, Jharkhand. Thin steel cables protect children and pets and keep your view open. We serve Dumka town and the nearby areas of Dumka district.\n## Safety nets and bird protection in Dumka\nWe also fit balcony nets, child safety nets, bird nets and spikes in Dumka. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Dumka\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Dumka. See our [price guide](#/invisible-grill-price).\n## Questions from Dumka customers\nDo you fit invisible grills in Dumka? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Dumka.\nIs there a warranty on work in Dumka? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Dumka | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Dumka: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "chaibasa",
+   "t": "Invisible Grill in Chaibasa",
+   "g": "Locations",
+   "s": "Jharkhand",
+   "d": "Invisible grills for balconies and windows in Chaibasa. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Chaibasa\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Chaibasa, Jharkhand. Thin steel cables protect children and pets and keep your view open. We serve Chaibasa town and the nearby areas of Chaibasa district.\n## Safety nets and bird protection in Chaibasa\nWe also fit balcony nets, child safety nets, bird nets and spikes in Chaibasa. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Chaibasa\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Chaibasa. See our [price guide](#/invisible-grill-price).\n## Questions from Chaibasa customers\nDo you fit invisible grills in Chaibasa? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Chaibasa.\nIs there a warranty on work in Chaibasa? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Chaibasa | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Chaibasa: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "palamu",
+   "t": "Invisible Grill in Palamu",
+   "g": "Locations",
+   "s": "Jharkhand",
+   "d": "Invisible grills for balconies and windows in Palamu. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Palamu\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Palamu, Jharkhand. Thin steel cables protect children and pets and keep your view open. We serve Palamu town and the nearby areas of Palamu district.\n## Safety nets and bird protection in Palamu\nWe also fit balcony nets, child safety nets, bird nets and spikes in Palamu. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Palamu\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Palamu. See our [price guide](#/invisible-grill-price).\n## Questions from Palamu customers\nDo you fit invisible grills in Palamu? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Palamu.\nIs there a warranty on work in Palamu? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Palamu | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Palamu: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "garhwa",
+   "t": "Invisible Grill in Garhwa",
+   "g": "Locations",
+   "s": "Jharkhand",
+   "d": "Invisible grills for balconies and windows in Garhwa. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Garhwa\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Garhwa, Jharkhand. Thin steel cables protect children and pets and keep your view open. We serve Garhwa town and the nearby areas of Garhwa district.\n## Safety nets and bird protection in Garhwa\nWe also fit balcony nets, child safety nets, bird nets and spikes in Garhwa. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Garhwa\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Garhwa. See our [price guide](#/invisible-grill-price).\n## Questions from Garhwa customers\nDo you fit invisible grills in Garhwa? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Garhwa.\nIs there a warranty on work in Garhwa? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Garhwa | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Garhwa: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "chatra",
+   "t": "Invisible Grill in Chatra",
+   "g": "Locations",
+   "s": "Jharkhand",
+   "d": "Invisible grills for balconies and windows in Chatra. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Chatra\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Chatra, Jharkhand. Thin steel cables protect children and pets and keep your view open. We serve Chatra town and the nearby areas of Chatra district.\n## Safety nets and bird protection in Chatra\nWe also fit balcony nets, child safety nets, bird nets and spikes in Chatra. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Chatra\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Chatra. See our [price guide](#/invisible-grill-price).\n## Questions from Chatra customers\nDo you fit invisible grills in Chatra? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Chatra.\nIs there a warranty on work in Chatra? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Chatra | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Chatra: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "koderma",
+   "t": "Invisible Grill in Koderma",
+   "g": "Locations",
+   "s": "Jharkhand",
+   "d": "Invisible grills for balconies and windows in Koderma. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Koderma\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Koderma, Jharkhand. Thin steel cables protect children and pets and keep your view open. We serve Koderma town and the nearby areas of Koderma district.\n## Safety nets and bird protection in Koderma\nWe also fit balcony nets, child safety nets, bird nets and spikes in Koderma. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Koderma\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Koderma. See our [price guide](#/invisible-grill-price).\n## Questions from Koderma customers\nDo you fit invisible grills in Koderma? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Koderma.\nIs there a warranty on work in Koderma? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Koderma | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Koderma: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "godda",
+   "t": "Invisible Grill in Godda",
+   "g": "Locations",
+   "s": "Jharkhand",
+   "d": "Invisible grills for balconies and windows in Godda. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Godda\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Godda, Jharkhand. Thin steel cables protect children and pets and keep your view open. We serve Godda town and the nearby areas of Godda district.\n## Safety nets and bird protection in Godda\nWe also fit balcony nets, child safety nets, bird nets and spikes in Godda. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Godda\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Godda. See our [price guide](#/invisible-grill-price).\n## Questions from Godda customers\nDo you fit invisible grills in Godda? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Godda.\nIs there a warranty on work in Godda? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Godda | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Godda: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "sahibganj",
+   "t": "Invisible Grill in Sahibganj",
+   "g": "Locations",
+   "s": "Jharkhand",
+   "d": "Invisible grills for balconies and windows in Sahibganj. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Sahibganj\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Sahibganj, Jharkhand. Thin steel cables protect children and pets and keep your view open. We serve Sahibganj town and the nearby areas of Sahibganj district.\n## Safety nets and bird protection in Sahibganj\nWe also fit balcony nets, child safety nets, bird nets and spikes in Sahibganj. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Sahibganj\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Sahibganj. See our [price guide](#/invisible-grill-price).\n## Questions from Sahibganj customers\nDo you fit invisible grills in Sahibganj? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Sahibganj.\nIs there a warranty on work in Sahibganj? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Sahibganj | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Sahibganj: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "pakur",
+   "t": "Invisible Grill in Pakur",
+   "g": "Locations",
+   "s": "Jharkhand",
+   "d": "Invisible grills for balconies and windows in Pakur. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Pakur\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Pakur, Jharkhand. Thin steel cables protect children and pets and keep your view open. We serve Pakur town and the nearby areas of Pakur district.\n## Safety nets and bird protection in Pakur\nWe also fit balcony nets, child safety nets, bird nets and spikes in Pakur. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Pakur\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Pakur. See our [price guide](#/invisible-grill-price).\n## Questions from Pakur customers\nDo you fit invisible grills in Pakur? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Pakur.\nIs there a warranty on work in Pakur? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Pakur | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Pakur: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "jamtara",
+   "t": "Invisible Grill in Jamtara",
+   "g": "Locations",
+   "s": "Jharkhand",
+   "d": "Invisible grills for balconies and windows in Jamtara. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Jamtara\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Jamtara, Jharkhand. Thin steel cables protect children and pets and keep your view open. We serve Jamtara town and the nearby areas of Jamtara district.\n## Safety nets and bird protection in Jamtara\nWe also fit balcony nets, child safety nets, bird nets and spikes in Jamtara. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Jamtara\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Jamtara. See our [price guide](#/invisible-grill-price).\n## Questions from Jamtara customers\nDo you fit invisible grills in Jamtara? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Jamtara.\nIs there a warranty on work in Jamtara? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Jamtara | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Jamtara: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "lohardaga",
+   "t": "Invisible Grill in Lohardaga",
+   "g": "Locations",
+   "s": "Jharkhand",
+   "d": "Invisible grills for balconies and windows in Lohardaga. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Lohardaga\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Lohardaga, Jharkhand. Thin steel cables protect children and pets and keep your view open. We serve Lohardaga town and the nearby areas of Lohardaga district.\n## Safety nets and bird protection in Lohardaga\nWe also fit balcony nets, child safety nets, bird nets and spikes in Lohardaga. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Lohardaga\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Lohardaga. See our [price guide](#/invisible-grill-price).\n## Questions from Lohardaga customers\nDo you fit invisible grills in Lohardaga? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Lohardaga.\nIs there a warranty on work in Lohardaga? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Lohardaga | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Lohardaga: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "gumla",
+   "t": "Invisible Grill in Gumla",
+   "g": "Locations",
+   "s": "Jharkhand",
+   "d": "Invisible grills for balconies and windows in Gumla. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Gumla\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Gumla, Jharkhand. Thin steel cables protect children and pets and keep your view open. We serve Gumla town and the nearby areas of Gumla district.\n## Safety nets and bird protection in Gumla\nWe also fit balcony nets, child safety nets, bird nets and spikes in Gumla. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Gumla\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Gumla. See our [price guide](#/invisible-grill-price).\n## Questions from Gumla customers\nDo you fit invisible grills in Gumla? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Gumla.\nIs there a warranty on work in Gumla? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Gumla | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Gumla: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "simdega",
+   "t": "Invisible Grill in Simdega",
+   "g": "Locations",
+   "s": "Jharkhand",
+   "d": "Invisible grills for balconies and windows in Simdega. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Simdega\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Simdega, Jharkhand. Thin steel cables protect children and pets and keep your view open. We serve Simdega town and the nearby areas of Simdega district.\n## Safety nets and bird protection in Simdega\nWe also fit balcony nets, child safety nets, bird nets and spikes in Simdega. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Simdega\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Simdega. See our [price guide](#/invisible-grill-price).\n## Questions from Simdega customers\nDo you fit invisible grills in Simdega? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Simdega.\nIs there a warranty on work in Simdega? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Simdega | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Simdega: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "khunti",
+   "t": "Invisible Grill in Khunti",
+   "g": "Locations",
+   "s": "Jharkhand",
+   "d": "Invisible grills for balconies and windows in Khunti. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Khunti\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Khunti, Jharkhand. Thin steel cables protect children and pets and keep your view open. We serve Khunti town and the nearby areas of Khunti district.\n## Safety nets and bird protection in Khunti\nWe also fit balcony nets, child safety nets, bird nets and spikes in Khunti. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Khunti\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Khunti. See our [price guide](#/invisible-grill-price).\n## Questions from Khunti customers\nDo you fit invisible grills in Khunti? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Khunti.\nIs there a warranty on work in Khunti? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Khunti | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Khunti: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "latehar",
+   "t": "Invisible Grill in Latehar",
+   "g": "Locations",
+   "s": "Jharkhand",
+   "d": "Invisible grills for balconies and windows in Latehar. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Latehar\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Latehar, Jharkhand. Thin steel cables protect children and pets and keep your view open. We serve Latehar town and the nearby areas of Latehar district.\n## Safety nets and bird protection in Latehar\nWe also fit balcony nets, child safety nets, bird nets and spikes in Latehar. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Latehar\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Latehar. See our [price guide](#/invisible-grill-price).\n## Questions from Latehar customers\nDo you fit invisible grills in Latehar? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Latehar.\nIs there a warranty on work in Latehar? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Latehar | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Latehar: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "seraikela",
+   "t": "Invisible Grill in Seraikela",
+   "g": "Locations",
+   "s": "Jharkhand",
+   "d": "Invisible grills for balconies and windows in Seraikela. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Seraikela\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Seraikela, Jharkhand. Thin steel cables protect children and pets and keep your view open. We serve Seraikela town and the nearby areas of Seraikela district.\n## Safety nets and bird protection in Seraikela\nWe also fit balcony nets, child safety nets, bird nets and spikes in Seraikela. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Seraikela\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Seraikela. See our [price guide](#/invisible-grill-price).\n## Questions from Seraikela customers\nDo you fit invisible grills in Seraikela? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Seraikela.\nIs there a warranty on work in Seraikela? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Seraikela | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Seraikela: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "patna",
+   "t": "Invisible Grill in Patna",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Patna. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills in Patna\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Patna. We serve areas such as Boring Road, Kankarbagh, Rajendra Nagar, Patliputra, Bailey Road, Danapur and Kurji.\n## Why Patna families choose them\nApartment living is growing in Patna, and open balconies on upper floors worry parents. An invisible grill closes the opening with thin steel cables, so children and pets are safe and the view stays open.\n## Nets for birds and balconies\nWe also fit [balcony nets](#/balcony-nets), [child safety nets](#/child-safety-nets) and [bird nets](#/bird-nets). Pigeons are a common problem in flats, and a net or spikes keep them out.\n## How to get a quote\nSend a photo and size on WhatsApp, and we will advise the right grill or net. Read the [price guide](#/invisible-grill-price) first if you like.\n## Warranty\nInvisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty) and our [terms](#/terms-and-conditions).\n## Contact us for Patna\nCall 7061899614 or use the [contact page](#/contact).",
+   "i": "",
+   "mt": "Invisible Grill in Patna | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Patna: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "gaya",
+   "t": "Invisible Grill in Gaya",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Gaya. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Gaya\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Gaya, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Gaya town and the nearby areas of Gaya district.\n## Safety nets and bird protection in Gaya\nWe also fit balcony nets, child safety nets, bird nets and spikes in Gaya. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Gaya\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Gaya. See our [price guide](#/invisible-grill-price).\n## Questions from Gaya customers\nDo you fit invisible grills in Gaya? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Gaya.\nIs there a warranty on work in Gaya? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Gaya | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Gaya: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "muzaffarpur",
+   "t": "Invisible Grill in Muzaffarpur",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Muzaffarpur. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Muzaffarpur\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Muzaffarpur, Bihar. Thin steel cables protect children and pets and keep your view open. We fit grills and nets in areas such as Juran Chhapra, Mithanpura, Brahmpura and Saraiyaganj, and in nearby parts of Muzaffarpur.\n## Safety nets and bird protection in Muzaffarpur\nWe also fit balcony nets, child safety nets, bird nets and spikes in Muzaffarpur. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Muzaffarpur\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Muzaffarpur. See our [price guide](#/invisible-grill-price).\n## Questions from Muzaffarpur customers\nDo you fit invisible grills in Muzaffarpur? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Muzaffarpur.\nIs there a warranty on work in Muzaffarpur? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Muzaffarpur | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Muzaffarpur: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "bhagalpur",
+   "t": "Invisible Grill in Bhagalpur",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Bhagalpur. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Bhagalpur\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Bhagalpur, Bihar. Thin steel cables protect children and pets and keep your view open. We fit grills and nets in areas such as Adampur, Barari, Nathnagar and Tilka Manjhi, and in nearby parts of Bhagalpur.\n## Safety nets and bird protection in Bhagalpur\nWe also fit balcony nets, child safety nets, bird nets and spikes in Bhagalpur. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Bhagalpur\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Bhagalpur. See our [price guide](#/invisible-grill-price).\n## Questions from Bhagalpur customers\nDo you fit invisible grills in Bhagalpur? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Bhagalpur.\nIs there a warranty on work in Bhagalpur? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Bhagalpur | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Bhagalpur: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "darbhanga",
+   "t": "Invisible Grill in Darbhanga",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Darbhanga. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Darbhanga\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Darbhanga, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Darbhanga town and the nearby areas of Darbhanga district.\n## Safety nets and bird protection in Darbhanga\nWe also fit balcony nets, child safety nets, bird nets and spikes in Darbhanga. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Darbhanga\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Darbhanga. See our [price guide](#/invisible-grill-price).\n## Questions from Darbhanga customers\nDo you fit invisible grills in Darbhanga? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Darbhanga.\nIs there a warranty on work in Darbhanga? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Darbhanga | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Darbhanga: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "purnia",
+   "t": "Invisible Grill in Purnia",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Purnia. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Purnia\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Purnia, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Purnia town and the nearby areas of Purnia district.\n## Safety nets and bird protection in Purnia\nWe also fit balcony nets, child safety nets, bird nets and spikes in Purnia. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Purnia\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Purnia. See our [price guide](#/invisible-grill-price).\n## Questions from Purnia customers\nDo you fit invisible grills in Purnia? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Purnia.\nIs there a warranty on work in Purnia? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Purnia | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Purnia: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "araria",
+   "t": "Invisible Grill in Araria",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Araria. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Araria\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Araria, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Araria town and the nearby areas of Araria district.\n## Safety nets and bird protection in Araria\nWe also fit balcony nets, child safety nets, bird nets and spikes in Araria. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Araria\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Araria. See our [price guide](#/invisible-grill-price).\n## Questions from Araria customers\nDo you fit invisible grills in Araria? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Araria.\nIs there a warranty on work in Araria? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Araria | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Araria: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "arwal",
+   "t": "Invisible Grill in Arwal",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Arwal. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Arwal\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Arwal, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Arwal town and the nearby areas of Arwal district.\n## Safety nets and bird protection in Arwal\nWe also fit balcony nets, child safety nets, bird nets and spikes in Arwal. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Arwal\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Arwal. See our [price guide](#/invisible-grill-price).\n## Questions from Arwal customers\nDo you fit invisible grills in Arwal? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Arwal.\nIs there a warranty on work in Arwal? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Arwal | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Arwal: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "aurangabad",
+   "t": "Invisible Grill in Aurangabad",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Aurangabad. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Aurangabad\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Aurangabad, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Aurangabad town and the nearby areas of Aurangabad district.\n## Safety nets and bird protection in Aurangabad\nWe also fit balcony nets, child safety nets, bird nets and spikes in Aurangabad. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Aurangabad\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Aurangabad. See our [price guide](#/invisible-grill-price).\n## Questions from Aurangabad customers\nDo you fit invisible grills in Aurangabad? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Aurangabad.\nIs there a warranty on work in Aurangabad? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Aurangabad | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Aurangabad: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "banka",
+   "t": "Invisible Grill in Banka",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Banka. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Banka\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Banka, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Banka town and the nearby areas of Banka district.\n## Safety nets and bird protection in Banka\nWe also fit balcony nets, child safety nets, bird nets and spikes in Banka. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Banka\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Banka. See our [price guide](#/invisible-grill-price).\n## Questions from Banka customers\nDo you fit invisible grills in Banka? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Banka.\nIs there a warranty on work in Banka? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Banka | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Banka: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "begusarai",
+   "t": "Invisible Grill in Begusarai",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Begusarai. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Begusarai\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Begusarai, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Begusarai town and the nearby areas of Begusarai district.\n## Safety nets and bird protection in Begusarai\nWe also fit balcony nets, child safety nets, bird nets and spikes in Begusarai. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Begusarai\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Begusarai. See our [price guide](#/invisible-grill-price).\n## Questions from Begusarai customers\nDo you fit invisible grills in Begusarai? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Begusarai.\nIs there a warranty on work in Begusarai? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Begusarai | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Begusarai: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "bhojpur",
+   "t": "Invisible Grill in Bhojpur",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Bhojpur. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Bhojpur\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Bhojpur, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Bhojpur town and the nearby areas of Bhojpur district.\n## Safety nets and bird protection in Bhojpur\nWe also fit balcony nets, child safety nets, bird nets and spikes in Bhojpur. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Bhojpur\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Bhojpur. See our [price guide](#/invisible-grill-price).\n## Questions from Bhojpur customers\nDo you fit invisible grills in Bhojpur? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Bhojpur.\nIs there a warranty on work in Bhojpur? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Bhojpur | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Bhojpur: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "buxar",
+   "t": "Invisible Grill in Buxar",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Buxar. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Buxar\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Buxar, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Buxar town and the nearby areas of Buxar district.\n## Safety nets and bird protection in Buxar\nWe also fit balcony nets, child safety nets, bird nets and spikes in Buxar. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Buxar\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Buxar. See our [price guide](#/invisible-grill-price).\n## Questions from Buxar customers\nDo you fit invisible grills in Buxar? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Buxar.\nIs there a warranty on work in Buxar? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Buxar | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Buxar: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "east-champaran",
+   "t": "Invisible Grill in East Champaran",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in East Champaran. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in East Champaran\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in East Champaran, Bihar. Thin steel cables protect children and pets and keep your view open. We serve East Champaran town and the nearby areas of East Champaran district.\n## Safety nets and bird protection in East Champaran\nWe also fit balcony nets, child safety nets, bird nets and spikes in East Champaran. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in East Champaran\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in East Champaran. See our [price guide](#/invisible-grill-price).\n## Questions from East Champaran customers\nDo you fit invisible grills in East Champaran? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in East Champaran.\nIs there a warranty on work in East Champaran? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in East Champaran | HR Invisible Safety Grill",
+   "h": "Invisible Grill in East Champaran: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "gopalganj",
+   "t": "Invisible Grill in Gopalganj",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Gopalganj. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Gopalganj\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Gopalganj, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Gopalganj town and the nearby areas of Gopalganj district.\n## Safety nets and bird protection in Gopalganj\nWe also fit balcony nets, child safety nets, bird nets and spikes in Gopalganj. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Gopalganj\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Gopalganj. See our [price guide](#/invisible-grill-price).\n## Questions from Gopalganj customers\nDo you fit invisible grills in Gopalganj? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Gopalganj.\nIs there a warranty on work in Gopalganj? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Gopalganj | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Gopalganj: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "jamui",
+   "t": "Invisible Grill in Jamui",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Jamui. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Jamui\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Jamui, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Jamui town and the nearby areas of Jamui district.\n## Safety nets and bird protection in Jamui\nWe also fit balcony nets, child safety nets, bird nets and spikes in Jamui. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Jamui\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Jamui. See our [price guide](#/invisible-grill-price).\n## Questions from Jamui customers\nDo you fit invisible grills in Jamui? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Jamui.\nIs there a warranty on work in Jamui? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Jamui | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Jamui: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "jehanabad",
+   "t": "Invisible Grill in Jehanabad",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Jehanabad. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Jehanabad\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Jehanabad, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Jehanabad town and the nearby areas of Jehanabad district.\n## Safety nets and bird protection in Jehanabad\nWe also fit balcony nets, child safety nets, bird nets and spikes in Jehanabad. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Jehanabad\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Jehanabad. See our [price guide](#/invisible-grill-price).\n## Questions from Jehanabad customers\nDo you fit invisible grills in Jehanabad? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Jehanabad.\nIs there a warranty on work in Jehanabad? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Jehanabad | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Jehanabad: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "kaimur",
+   "t": "Invisible Grill in Kaimur",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Kaimur. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Kaimur\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Kaimur, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Kaimur town and the nearby areas of Kaimur district.\n## Safety nets and bird protection in Kaimur\nWe also fit balcony nets, child safety nets, bird nets and spikes in Kaimur. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Kaimur\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Kaimur. See our [price guide](#/invisible-grill-price).\n## Questions from Kaimur customers\nDo you fit invisible grills in Kaimur? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Kaimur.\nIs there a warranty on work in Kaimur? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Kaimur | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Kaimur: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "katihar",
+   "t": "Invisible Grill in Katihar",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Katihar. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Katihar\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Katihar, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Katihar town and the nearby areas of Katihar district.\n## Safety nets and bird protection in Katihar\nWe also fit balcony nets, child safety nets, bird nets and spikes in Katihar. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Katihar\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Katihar. See our [price guide](#/invisible-grill-price).\n## Questions from Katihar customers\nDo you fit invisible grills in Katihar? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Katihar.\nIs there a warranty on work in Katihar? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Katihar | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Katihar: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "khagaria",
+   "t": "Invisible Grill in Khagaria",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Khagaria. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Khagaria\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Khagaria, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Khagaria town and the nearby areas of Khagaria district.\n## Safety nets and bird protection in Khagaria\nWe also fit balcony nets, child safety nets, bird nets and spikes in Khagaria. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Khagaria\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Khagaria. See our [price guide](#/invisible-grill-price).\n## Questions from Khagaria customers\nDo you fit invisible grills in Khagaria? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Khagaria.\nIs there a warranty on work in Khagaria? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Khagaria | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Khagaria: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "kishanganj",
+   "t": "Invisible Grill in Kishanganj",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Kishanganj. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Kishanganj\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Kishanganj, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Kishanganj town and the nearby areas of Kishanganj district.\n## Safety nets and bird protection in Kishanganj\nWe also fit balcony nets, child safety nets, bird nets and spikes in Kishanganj. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Kishanganj\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Kishanganj. See our [price guide](#/invisible-grill-price).\n## Questions from Kishanganj customers\nDo you fit invisible grills in Kishanganj? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Kishanganj.\nIs there a warranty on work in Kishanganj? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Kishanganj | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Kishanganj: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "lakhisarai",
+   "t": "Invisible Grill in Lakhisarai",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Lakhisarai. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Lakhisarai\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Lakhisarai, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Lakhisarai town and the nearby areas of Lakhisarai district.\n## Safety nets and bird protection in Lakhisarai\nWe also fit balcony nets, child safety nets, bird nets and spikes in Lakhisarai. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Lakhisarai\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Lakhisarai. See our [price guide](#/invisible-grill-price).\n## Questions from Lakhisarai customers\nDo you fit invisible grills in Lakhisarai? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Lakhisarai.\nIs there a warranty on work in Lakhisarai? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Lakhisarai | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Lakhisarai: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "madhepura",
+   "t": "Invisible Grill in Madhepura",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Madhepura. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Madhepura\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Madhepura, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Madhepura town and the nearby areas of Madhepura district.\n## Safety nets and bird protection in Madhepura\nWe also fit balcony nets, child safety nets, bird nets and spikes in Madhepura. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Madhepura\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Madhepura. See our [price guide](#/invisible-grill-price).\n## Questions from Madhepura customers\nDo you fit invisible grills in Madhepura? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Madhepura.\nIs there a warranty on work in Madhepura? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Madhepura | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Madhepura: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "madhubani",
+   "t": "Invisible Grill in Madhubani",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Madhubani. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Madhubani\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Madhubani, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Madhubani town and the nearby areas of Madhubani district.\n## Safety nets and bird protection in Madhubani\nWe also fit balcony nets, child safety nets, bird nets and spikes in Madhubani. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Madhubani\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Madhubani. See our [price guide](#/invisible-grill-price).\n## Questions from Madhubani customers\nDo you fit invisible grills in Madhubani? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Madhubani.\nIs there a warranty on work in Madhubani? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Madhubani | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Madhubani: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "munger",
+   "t": "Invisible Grill in Munger",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Munger. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Munger\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Munger, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Munger town and the nearby areas of Munger district.\n## Safety nets and bird protection in Munger\nWe also fit balcony nets, child safety nets, bird nets and spikes in Munger. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Munger\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Munger. See our [price guide](#/invisible-grill-price).\n## Questions from Munger customers\nDo you fit invisible grills in Munger? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Munger.\nIs there a warranty on work in Munger? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Munger | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Munger: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "nalanda",
+   "t": "Invisible Grill in Nalanda",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Nalanda. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Nalanda\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Nalanda, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Nalanda town and the nearby areas of Nalanda district.\n## Safety nets and bird protection in Nalanda\nWe also fit balcony nets, child safety nets, bird nets and spikes in Nalanda. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Nalanda\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Nalanda. See our [price guide](#/invisible-grill-price).\n## Questions from Nalanda customers\nDo you fit invisible grills in Nalanda? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Nalanda.\nIs there a warranty on work in Nalanda? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Nalanda | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Nalanda: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "nawada",
+   "t": "Invisible Grill in Nawada",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Nawada. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Nawada\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Nawada, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Nawada town and the nearby areas of Nawada district.\n## Safety nets and bird protection in Nawada\nWe also fit balcony nets, child safety nets, bird nets and spikes in Nawada. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Nawada\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Nawada. See our [price guide](#/invisible-grill-price).\n## Questions from Nawada customers\nDo you fit invisible grills in Nawada? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Nawada.\nIs there a warranty on work in Nawada? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Nawada | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Nawada: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "rohtas",
+   "t": "Invisible Grill in Rohtas",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Rohtas. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Rohtas\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Rohtas, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Rohtas town and the nearby areas of Rohtas district.\n## Safety nets and bird protection in Rohtas\nWe also fit balcony nets, child safety nets, bird nets and spikes in Rohtas. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Rohtas\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Rohtas. See our [price guide](#/invisible-grill-price).\n## Questions from Rohtas customers\nDo you fit invisible grills in Rohtas? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Rohtas.\nIs there a warranty on work in Rohtas? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Rohtas | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Rohtas: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "saharsa",
+   "t": "Invisible Grill in Saharsa",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Saharsa. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Saharsa\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Saharsa, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Saharsa town and the nearby areas of Saharsa district.\n## Safety nets and bird protection in Saharsa\nWe also fit balcony nets, child safety nets, bird nets and spikes in Saharsa. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Saharsa\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Saharsa. See our [price guide](#/invisible-grill-price).\n## Questions from Saharsa customers\nDo you fit invisible grills in Saharsa? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Saharsa.\nIs there a warranty on work in Saharsa? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Saharsa | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Saharsa: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "samastipur",
+   "t": "Invisible Grill in Samastipur",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Samastipur. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Samastipur\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Samastipur, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Samastipur town and the nearby areas of Samastipur district.\n## Safety nets and bird protection in Samastipur\nWe also fit balcony nets, child safety nets, bird nets and spikes in Samastipur. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Samastipur\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Samastipur. See our [price guide](#/invisible-grill-price).\n## Questions from Samastipur customers\nDo you fit invisible grills in Samastipur? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Samastipur.\nIs there a warranty on work in Samastipur? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Samastipur | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Samastipur: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "saran",
+   "t": "Invisible Grill in Saran",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Saran. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Saran\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Saran, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Saran town and the nearby areas of Saran district.\n## Safety nets and bird protection in Saran\nWe also fit balcony nets, child safety nets, bird nets and spikes in Saran. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Saran\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Saran. See our [price guide](#/invisible-grill-price).\n## Questions from Saran customers\nDo you fit invisible grills in Saran? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Saran.\nIs there a warranty on work in Saran? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Saran | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Saran: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "sheikhpura",
+   "t": "Invisible Grill in Sheikhpura",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Sheikhpura. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Sheikhpura\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Sheikhpura, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Sheikhpura town and the nearby areas of Sheikhpura district.\n## Safety nets and bird protection in Sheikhpura\nWe also fit balcony nets, child safety nets, bird nets and spikes in Sheikhpura. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Sheikhpura\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Sheikhpura. See our [price guide](#/invisible-grill-price).\n## Questions from Sheikhpura customers\nDo you fit invisible grills in Sheikhpura? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Sheikhpura.\nIs there a warranty on work in Sheikhpura? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Sheikhpura | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Sheikhpura: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "sheohar",
+   "t": "Invisible Grill in Sheohar",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Sheohar. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Sheohar\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Sheohar, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Sheohar town and the nearby areas of Sheohar district.\n## Safety nets and bird protection in Sheohar\nWe also fit balcony nets, child safety nets, bird nets and spikes in Sheohar. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Sheohar\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Sheohar. See our [price guide](#/invisible-grill-price).\n## Questions from Sheohar customers\nDo you fit invisible grills in Sheohar? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Sheohar.\nIs there a warranty on work in Sheohar? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Sheohar | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Sheohar: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "sitamarhi",
+   "t": "Invisible Grill in Sitamarhi",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Sitamarhi. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Sitamarhi\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Sitamarhi, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Sitamarhi town and the nearby areas of Sitamarhi district.\n## Safety nets and bird protection in Sitamarhi\nWe also fit balcony nets, child safety nets, bird nets and spikes in Sitamarhi. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Sitamarhi\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Sitamarhi. See our [price guide](#/invisible-grill-price).\n## Questions from Sitamarhi customers\nDo you fit invisible grills in Sitamarhi? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Sitamarhi.\nIs there a warranty on work in Sitamarhi? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Sitamarhi | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Sitamarhi: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "siwan",
+   "t": "Invisible Grill in Siwan",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Siwan. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Siwan\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Siwan, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Siwan town and the nearby areas of Siwan district.\n## Safety nets and bird protection in Siwan\nWe also fit balcony nets, child safety nets, bird nets and spikes in Siwan. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Siwan\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Siwan. See our [price guide](#/invisible-grill-price).\n## Questions from Siwan customers\nDo you fit invisible grills in Siwan? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Siwan.\nIs there a warranty on work in Siwan? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Siwan | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Siwan: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "supaul",
+   "t": "Invisible Grill in Supaul",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Supaul. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Supaul\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Supaul, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Supaul town and the nearby areas of Supaul district.\n## Safety nets and bird protection in Supaul\nWe also fit balcony nets, child safety nets, bird nets and spikes in Supaul. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Supaul\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Supaul. See our [price guide](#/invisible-grill-price).\n## Questions from Supaul customers\nDo you fit invisible grills in Supaul? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Supaul.\nIs there a warranty on work in Supaul? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Supaul | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Supaul: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "vaishali",
+   "t": "Invisible Grill in Vaishali",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in Vaishali. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in Vaishali\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in Vaishali, Bihar. Thin steel cables protect children and pets and keep your view open. We serve Vaishali town and the nearby areas of Vaishali district.\n## Safety nets and bird protection in Vaishali\nWe also fit balcony nets, child safety nets, bird nets and spikes in Vaishali. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in Vaishali\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in Vaishali. See our [price guide](#/invisible-grill-price).\n## Questions from Vaishali customers\nDo you fit invisible grills in Vaishali? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in Vaishali.\nIs there a warranty on work in Vaishali? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in Vaishali | HR Invisible Safety Grill",
+   "h": "Invisible Grill in Vaishali: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "west-champaran",
+   "t": "Invisible Grill in West Champaran",
+   "g": "Locations",
+   "s": "Bihar",
+   "d": "Invisible grills for balconies and windows in West Champaran. SS 316 steel, child and pet safe, 10-year warranty. Call 7061899614 for a free quote.",
+   "b": "## Invisible grills for balconies and windows in West Champaran\nHR Invisible Safety Grill fits SS 316 invisible grills on balconies, windows and staircases in West Champaran, Bihar. Thin steel cables protect children and pets and keep your view open. We serve West Champaran town and the nearby areas of West Champaran district.\n## Safety nets and bird protection in West Champaran\nWe also fit balcony nets, child safety nets, bird nets and spikes in West Champaran. Pigeons on balconies and ducts are a common problem, and a net or spikes solve it.\n## Price and free quote in West Champaran\nThe price depends on the area and the type of opening. Send a photo and size on WhatsApp for a free quote in West Champaran. See our [price guide](#/invisible-grill-price).\n## Questions from West Champaran customers\nDo you fit invisible grills in West Champaran? Yes. Call 7061899614 or WhatsApp us and we will arrange the work in West Champaran.\nIs there a warranty on work in West Champaran? Invisible grill work has a 10-year warranty. See [claim warranty](#/claim-warranty).",
+   "i": "",
+   "mt": "Invisible Grill in West Champaran | HR Invisible Safety Grill",
+   "h": "Invisible Grill in West Champaran: Balcony and Window Safety by HR Invisible Safety Grill"
+  },
+  {
+   "id": "resources",
+   "t": "Resources",
+   "g": "Resources",
+   "d": "Guides, photos, reviews and policies from HR Invisible Safety Grill.",
+   "b": "",
+   "i": ""
+  },
+  {
+   "id": "reviews",
+   "t": "Customer Reviews",
+   "g": "Resources",
+   "d": "Read what customers say about HR Invisible Safety Grill, and share your own experience.",
+   "b": "## Why reviews matter\nA review from a neighbour helps the next family choose with confidence. We add customer reviews to this page after checking them.\n## How to share yours\nUse the form below to send your name, city, rating and a few words about the work. It opens WhatsApp or your email app with the message ready. If a Google link is shown, you can review us there too.\n## Questions about a job\nIf something was not right, call 7061899614 or read how to [claim warranty](#/claim-warranty). We would rather fix a problem than lose a customer.",
+   "i": ""
+  },
+  {
+   "id": "terms-and-conditions",
+   "t": "Terms and Conditions",
+   "g": "Resources",
+   "d": "Terms for quotes, installation, payment and warranty with HR Invisible Safety Grill.",
+   "b": "These terms apply to enquiries and work with HR Invisible Safety Grill, Ranchi.\n- Quotes: Prices are given after we know the size, type of opening and material.\n- Measurement: The final price can change if the measured size differs from the size you gave us.\n- Installation: Work is done by our trained team. Please keep the area clear and safe to reach.\n- Payment: Payment terms are agreed with you before work starts.\n- Warranty: Invisible grill work has a 10-year warranty against defects in material and fitting. It does not cover damage from misuse, accidents, cutting or changes made by others.\n- Nets and spikes: These are covered as agreed in your quote.\n- Care: Do not hang heavy items on, or climb, the cables or nets.\n- Safety: Grills and nets reduce risk but do not replace adult supervision of young children.\n- Changes: We may update these terms. The version on this page applies.\n- Contact: Call 7061899614 or email hshm0799@gmail.com.",
+   "i": ""
+  },
+  {
+   "id": "privacy-policy",
+   "t": "Privacy Policy",
+   "g": "Resources",
+   "d": "How HR Invisible Safety Grill handles the details you share with us.",
+   "b": "HR Invisible Safety Grill respects your privacy.\n- What we collect: Only what you send us, such as name, phone number, city, photos and message, when you contact us by WhatsApp, email or phone.\n- Forms on this site: The quote and review forms do not save anything on this website. They open WhatsApp or your email app with your message ready to send.\n- How we use it: To reply to you, prepare a quote, plan the work and handle warranty.\n- Sharing: We do not sell your details. We share them only with our own team who do the work.\n- Third parties: This site loads fonts from Google Fonts. WhatsApp and email work under their own policies.\n- Photos: We show project photos on this site only with the customer agreement.\n- Your choices: Ask us to delete the details you sent us by calling or emailing us.\n- Contact: 7061899614, hshm0799@gmail.com.",
+   "i": ""
+  },
+  {
+   "id": "balcony-invisible-grill",
+   "t": "Invisible Grill for Balcony",
+   "g": "",
+   "mt": "Invisible Grill for Balcony | Child Safe - HR Invisible Safety Grill",
+   "h": "Invisible Grill for Balcony: Safety With an Open View",
+   "d": "Install an invisible grill on your balcony to prevent falls without blocking the view. SS 316 steel, child and pet safe. Get a free quote.",
+   "b": "## Why balconies need protection\nA balcony is where children play and pets look out, and on upper floors a fall can be fatal. A normal railing is often low and has gaps. An invisible grill closes the whole opening without hiding the view.\n## How a balcony invisible grill is fitted\nSteel cables run from the floor channel to the ceiling channel across the open side of the balcony. They are tightened evenly so the grill feels firm. The cables are thin, so you still see the sky, trees and street.\n## Child and pet safety\nCables sit close together so children and pets stay inside the balcony. Adults should still watch young children, because no grill replaces supervision.\n## Material and finish\nWe use SS 316 marine-grade steel with a nylon coating, chosen to resist rust and weather. Trained installers fit it neatly, with strong fixing into the frame or wall.\n## Balcony grill or balcony net?\nA grill is stronger and almost invisible. A [balcony net](#/balcony-nets) costs less and also keeps pigeons out. Many homes use both. See [invisible grills](#/invisible-grills).\n## Price and quote\nPrice depends on the balcony width and height. Read the [price guide](#/invisible-grill-price), then send a photo and size on WhatsApp. We work in Ranchi, Jharkhand and all Bihar districts.",
+   "i": "grill1"
+  },
+  {
+   "id": "window-invisible-grill",
+   "t": "Invisible Grill for Windows",
+   "g": "",
+   "mt": "Invisible Grill for Windows | Child Safe - HR Invisible Safety Grill",
+   "h": "Invisible Grill for Windows: Safe, Clear and Modern Protection",
+   "d": "Invisible grills for windows keep children and pets safe while light and air flow freely. SS 316 steel, neat fitting. Get a free quote.",
+   "b": "## Window safety without blocking light\nWindows on upper floors are a fall risk for small children, especially when furniture stands below them. An invisible grill guards the opening while daylight and fresh air pass through freely.\n## Sliding and French windows\nLarge sliding windows and French windows are hard to guard with iron. Thin cables fit across them and keep the glass and the view clear. We measure each opening and choose the spacing to suit it.\n## Child and pet protection\nClose cable spacing stops children and pets reaching the edge, and the grill stays firm under a push. Adults should still supervise young children near any window.\n## Rust-resistant and neat\nSS 316 marine-grade steel with a nylon coating resists rust and weather. Trained installers fix the grill so it looks neat from inside and outside.\n## Related options\nFor a whole balcony see [balcony invisible grills](#/balcony-invisible-grill). To keep birds out of a window or duct, see [bird nets](#/bird-nets).\n## Price and free quote\nThe price depends on the size and number of windows. See the [price guide](#/invisible-grill-price). Send a photo and size on WhatsApp, or call 7061899614, for a quote in Ranchi, Jharkhand or Bihar.",
+   "i": "grill2"
+  },
+  {
+   "id": "apartment-invisible-grill",
+   "t": "Invisible Grill for Apartments",
+   "g": "",
+   "mt": "Invisible Grill for Apartments | HR Invisible Safety Grill",
+   "h": "Invisible Grill for Apartments and High-Rise Balconies",
+   "d": "Protect apartment balconies and windows with invisible grills. Strong steel cables, open view, child and pet safe. Get a free quote today.",
+   "b": "## Why apartments use invisible grills\nIn a flat on an upper floor, a fall from a balcony or window is serious. Invisible grills give strong protection and keep the look of the building, which matters in societies with rules about the outside view.\n## Balconies, windows and ducts\nWe fit grills on balconies, windows, duct openings and staircase sides. Each opening is measured, and the cable spacing is chosen for the height and use of that opening.\n## Fitting in an existing flat\nWe can fit invisible grills in flats that are already built and lived in. Trained installers explain the fixing method for your balcony or window before starting.\n## Safe for children and pets\nCables are close together, so children and pets cannot pass. The barrier stays firm if someone leans on it. Adults should still watch young children.\n## For societies and builders\nIf many flats want the same work, see [large scale projects](#/large-scale). A single plan and schedule saves time for everyone.\n## Get a quote\nRead the [price guide](#/invisible-grill-price) and send photos and the number of openings on WhatsApp. We work in Ranchi, Patna and across Jharkhand and Bihar.",
+   "i": "wbal"
+  },
+  {
+   "id": "invisible-grill-price",
+   "t": "Invisible Grill Price",
+   "g": "",
+   "mt": "Invisible Grill Price in Ranchi & Bihar | HR Invisible Safety Grill",
+   "h": "Invisible Grill Price: How We Quote Balcony and Window Jobs",
+   "d": "Invisible grill price depends on area, height and cable choice. Send a photo and size on WhatsApp for a clear quote. Call 7061899614.",
+   "b": "## Invisible grill price: the short answer\nThere is no single price for every home. An invisible grill is priced by the work it needs, so two balconies of the same width can cost different amounts. A clear quote needs a photo and the size.\n## What decides the price\n- Area to cover and the height of the opening\n- Cable thickness and spacing between cables\n- Type of opening: balcony, window, duct or staircase\n- Fixing method and site conditions\n## Why cheaper is not always safer\nA low price can hide thin cable, wide spacing or weak fixing. Ask about the steel grade (we use SS 316), the spacing and who will install it. Read [how to choose a safe grill](#/post-choose-grill).\n## Grill or net: which costs less?\nA [balcony net](#/balcony-nets) usually costs less than an [invisible grill](#/invisible-grills). The grill is stronger and almost invisible. We can quote both so you can compare.\n## How to get your price\nSend a photo and size on WhatsApp, or ask for a site visit. We explain the quote before work starts. See also our [rate card](#/rate-card) and [terms](#/terms-and-conditions).",
+   "i": ""
+  },
+  {
+   "id": "post-is-it-safe",
+   "t": "Is an invisible grill safe for balconies and windows?",
+   "g": "Blog",
+   "mt": "Is an Invisible Grill Safe? | HR Invisible Safety Grill",
+   "h": "Is an Invisible Grill Safe for Balconies and Windows?",
+   "d": "An invisible grill is safe when the steel, spacing, tension and fixing are right. Learn what to check before you buy. Call 7061899614.",
+   "b": "## How invisible grills prevent falls\nTight steel cables form a barrier across the opening. Close spacing stops children and pets passing through.\n## What decides safety\n- Steel grade and cable thickness\n- Spacing between cables\n- Correct tension\n- Strong fixing into the frame or wall\n## Professional installation matters\nWrong tension or loose fixing makes a grill unsafe. Ask who will install it. See [invisible grills](#/invisible-grills).\n## Adult supervision\nGrills reduce risk but do not replace watching young children.",
+   "i": "grill2"
+  },
+  {
+   "id": "post-vs-iron-grill",
+   "t": "Invisible grill vs normal iron grill: which is better?",
+   "g": "Blog",
+   "mt": "Invisible Grill vs Iron Grill: Which Is Better? | HR Safety Grill",
+   "h": "Invisible Grill vs Normal Iron Grill: Which Is Better for Your Home?",
+   "d": "Compare invisible grills and iron grills on safety, view, rust and upkeep to choose the right one for your balcony or window.",
+   "b": "## View and light\nIron grills block part of the view and light. Invisible grills stay almost clear.\n## Safety\nBoth can be safe if fitted well. Invisible grills use close cables that stop children slipping through.\n## Rust and upkeep\nIron needs regular painting. SS 316 steel resists rust and needs only a wipe.\n## Looks\nInvisible grills keep the look of a modern flat.\n## Which to choose\nFor balconies and windows where view matters, choose an [invisible grill](#/invisible-grills). Ask for a [quote](#/contact).",
+   "i": "wbal2"
+  }
+ ],
+ "faq": [
+  [
+   "What is an invisible grill?",
+   "An invisible grill is a safety barrier of thin SS 316 steel cables fitted close together on a balcony, window or staircase. It protects without blocking your view, light or air. See [invisible grills](#/invisible-grills)."
+  ],
+  [
+   "Are invisible grills safe for children and pets?",
+   "Yes, when the spacing, tension and fixing are right. Cables are fitted close together so children and pets cannot slip through. Adults should still watch young children."
+  ],
+  [
+   "Is an invisible grill strong enough for a balcony?",
+   "Strength depends on cable thickness, spacing and fixing. We suggest the right set-up after seeing your balcony. Send a photo on WhatsApp."
+  ],
+  [
+   "Will an invisible grill block my view?",
+   "No. The cables are thin and look almost invisible from inside, so view, light and air stay open."
+  ],
+  [
+   "Can invisible grills be fitted on windows and balconies?",
+   "Yes, on balconies, windows, staircases, ducts and terraces in flats, houses and offices. See [balcony grills](#/balcony-invisible-grill) and [window grills](#/window-invisible-grill)."
+  ],
+  [
+   "What material do you use?",
+   "SS 316 marine-grade stainless steel cables with nylon coating."
+  ],
+  [
+   "Do invisible grills rust?",
+   "SS 316 marine-grade steel with nylon coating resists rust and weather, so it suits balconies that face rain and sun."
+  ],
+  [
+   "Do invisible grills need maintenance?",
+   "Very little. Wipe the cables now and then with a soft cloth and mild soap. Avoid harsh chemicals."
+  ],
+  [
+   "How long is the warranty?",
+   "Invisible grill work has a 10-year warranty. See [how to claim warranty](#/claim-warranty) and our [terms](#/terms-and-conditions)."
+  ],
+  [
+   "How much does an invisible grill cost?",
+   "The price depends on area, height, cable choice and fixing. See the [price guide](#/invisible-grill-price) or send a photo and size for a quote."
+  ],
+  [
+   "Is the price counted per square foot?",
+   "Invisible grill jobs are commonly priced by the area covered. Send us the size and we will give you a clear quote."
+  ],
+  [
+   "Do you give a free quote?",
+   "Yes. Call 7061899614 or send a photo and size on WhatsApp. We can also arrange a site visit. [Get a quote](#/contact)."
+  ],
+  [
+   "How long does installation take?",
+   "It depends on how many openings you have and their size. We confirm the time after seeing photos or visiting the site."
+  ],
+  [
+   "Can you fit it in an existing flat?",
+   "Yes. We fit invisible grills in flats and houses that are already built and lived in."
+  ],
+  [
+   "Does installation need drilling?",
+   "Fixing is usually done into the frame or wall. We explain the method for your balcony or window before we start."
+  ],
+  [
+   "Can I install an invisible grill myself?",
+   "We do not recommend it. Wrong tension or loose fixing makes the grill unsafe. Use trained installers."
+  ],
+  [
+   "Is an invisible grill better than an iron grill?",
+   "Invisible grills keep the view clear and resist rust. Iron grills block more view and need paint. Read [invisible grill vs iron grill](#/post-vs-iron-grill)."
+  ],
+  [
+   "Can an invisible grill keep birds out?",
+   "With close spacing it can help. For pigeons we also fit [bird nets and spikes](#/bird-nets)."
+  ],
+  [
+   "Do you work outside Ranchi?",
+   "Yes. We work in Ranchi, across Jharkhand and in all 38 districts of Bihar. See [locations](#/locations)."
+  ],
+  [
+   "How do I book installation?",
+   "Call or WhatsApp 7061899614, or use the [contact page](#/contact). Send photos and size, and we will arrange the rest."
+  ]
+ ],
+ "reviews": []
+}
